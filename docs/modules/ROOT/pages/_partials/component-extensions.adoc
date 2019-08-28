@@ -5,6 +5,7 @@
 * `camel-quarkus-aws-sqs`
 * `camel-quarkus-bean`
 * `camel-quarkus-direct`
+* `camel-quarkus-fhir`
 * `camel-quarkus-infinispan`
 * `camel-quarkus-jdbc`
 * `camel-quarkus-log`
